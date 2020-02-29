@@ -6,4 +6,4 @@ WSL-Installer - or "InstallWSL.exe" -  is a free, open-source script converted t
 #### Notice: If you have an anti-malware or anti-virus solution running on your PC, WSL-Installer may run into problems, as WLS-Installer relies on running a batch script to install the runtime. You may want to consider temporarily disabling any and all anti-malware and anti-virus solutions while running this product.
 
 
-Source code is available for free within this Git under the "Original BAT File" subdirectory.
+Source code is available for free within this Git under the "Original BAT File" subdirectory (https://github.com/jebeld17/WSL-Installer/tree/master/Original%20BAT%20File).
